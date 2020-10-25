@@ -16,3 +16,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+#ssh communication based on password
